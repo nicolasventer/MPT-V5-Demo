@@ -1,0 +1,1 @@
+import{u as t,V as o,g as e,b as a,F as l}from"./index.js";import{S as n}from"./Switch.chunk.js";import"./Input.chunk.js";const i=()=>t(l,{children:t(o,{height:"100%",children:[t(n,{label:"Show 4 buttons",checked:e.show4buttons.value,onChange:()=>e.show4buttons.value=!e.show4buttons.value}),t("a",{href:`${a.BASE_URL}/`,children:"Home"})]})});export{i as SettingsPage};

@@ -1,2 +1,0 @@
-import{F as q,I as A,Y as H,Z as g,ca as k}from"./index.chunk-0vs174m7.js";var B=(h)=>{return(I)=>k(H,{fallback:!0,children:k(h,{...I},void 0,!1,void 0,this)},void 0,!1,void 0,this)},F=(h)=>(G)=>G[h],K=B(g(()=>import("./pages/Coordinator.chunk-0zvkrran.js").then(F("CoordinatorPage")))),M=B(g(()=>import("./components/coordinator/CoordinatorCardView.chunk-gak192yx.js").then(F("CoordinatorCardView")))),N=B(g(()=>import("./components/coordinator/CoordinatorTableView.chunk-jq08xjj9.js").then(F("CoordinatorTableView"))));
-export{K as a,M as b,N as c};
